@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pcube-portfolio.netlify.app/banner-dark.png" alt="Pcube Portfolio Banner" width="100%"/>
+  <img src="header.png" alt="Pcube Portfolio Banner" width="100%"/>
 </p>
 
 # 👋 Hi, I’m Pankaj Pandey  
