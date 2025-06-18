@@ -1,9 +1,9 @@
 <table align="center">
   <tr>
     <td valign="top" width="42%">
-      <h3 align="center>🎧 Now Playing on Spotify</h3>
+      <h3>🎧 Now Playing on Spotify</h3>
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&cover_image=true&theme=default&show_offline=false&background_color=275d38&interchange=true&bar_color=65a85f&bar_color_cover=false" alt="Spotify Now Playing" align="center />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&cover_image=true&theme=default&show_offline=false&background_color=275d38&interchange=true&bar_color=65a85f&bar_color_cover=false" alt="Spotify Now Playing"/>
       </a>
     </td>
     <td valign="top" width="58%">
