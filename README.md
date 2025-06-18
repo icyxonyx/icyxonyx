@@ -1,4 +1,4 @@
-<p align="center"> <img src="cover.png" /> </p>
+<p align="center"> <img src="banner.png" /> </p>
 
 <table align="center">
   <tr>
