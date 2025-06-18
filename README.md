@@ -18,6 +18,23 @@
           <img src="https://img.shields.io/badge/Repositories-📂-86d17b?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
+      ## 🛠️ What I Do
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/OpenAI_CLIP-20232A?style=for-the-badge&logo=openai&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/EasyOCR-0F172A?style=for-the-badge&logo=python&logoColor=white"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/> 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
