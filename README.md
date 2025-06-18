@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="header.png" alt="Pcube Portfolio Banner" width="100%"/>
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&cover_image=true&theme=default&show_offline=false&background_color=075414&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 </p>
 
+# 👋 Hi, I’m Pankaj Pandey 
 ### Full‑Stack & AI Engineer  
 <div align="center">
   <a href="https://pcube-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-🌐-65a85f?style=for-the-badge&logo=netlify&logoColor=white"/></a>
