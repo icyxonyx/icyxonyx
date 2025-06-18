@@ -2,7 +2,6 @@
   <img src="header.png" alt="Pcube Portfolio Banner" width="100%"/>
 </p>
 
-# 👋 Hi, I’m Pankaj Pandey  
 ### Full‑Stack & AI Engineer  
 <div align="center">
   <a href="https://pcube-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-🌐-65a85f?style=for-the-badge&logo=netlify&logoColor=white"/></a>
