@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="42%">
       <h3>🎧 Now Playing on Spotify</h3>
