@@ -1,19 +1,15 @@
 <table>
   <tr>
     <td valign="top" width="42%">
-      
       <h3>🎧 Now Playing on Spotify</h3>
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=s085pzbngu4arsi4vuuxo36nt&cover_image=true&theme=default&show_offline=false&background_color=075414&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
       </a>
-
     </td>
     <td valign="top" width="58%">
-
       <h1>👋 Hi, I’m Pankaj Pandey</h1>
       <h3>Full‑Stack & AI Engineer</h3>
       <p>I build scalable web apps and intelligent media tools.</p>
-
       <p align="left">
         <a href="https://pcube-portfolio.netlify.app">
           <img src="https://img.shields.io/badge/Portfolio-🌐-65a85f?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -22,7 +18,6 @@
           <img src="https://img.shields.io/badge/Repositories-📂-86d17b?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-
     </td>
   </tr>
 </table>
