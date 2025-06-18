@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/Repositories-📂-86d17b?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      ## 🛠️ What I Do
+      <h2 align="center">🛠️ What I Do</h2>
       <br>
       <br>
       <p align="center">
