@@ -1,3 +1,5 @@
+<p align="center"> <img src="cover.png" /> </p>
+
 <table align="center">
   <tr>
     <td valign="top" width="42%">
