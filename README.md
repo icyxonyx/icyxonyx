@@ -7,10 +7,10 @@
       </a>
     </td>
     <td valign="top" width="58%">
-      <h1>👋 Hi, I’m Pankaj Pandey</h1>
-      <h3>Full‑Stack & AI Engineer</h3>
-      <p>I build scalable web apps and intelligent media tools.</p>
-      <p align="left">
+      <h1 align="center">👋 Hi, I’m Pankaj Pandey</h1>
+      <h3 align="center">Full‑Stack & AI Engineer</h3>
+      <p align="center">I build scalable web apps and intelligent media tools.</p>
+      <p align="center">
         <a href="https://pcube-portfolio.netlify.app">
           <img src="https://img.shields.io/badge/Portfolio-🌐-65a85f?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
